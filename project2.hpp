@@ -5,7 +5,7 @@
  *
  * Partner 1: Oleksandr Nerubay
  * Partner 2: Cora Sunsedeth
- * Date:
+ * Date: 05/09/2026
  */
 
 #ifndef PROJECT2_HPP_
